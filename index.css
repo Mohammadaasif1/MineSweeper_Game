@@ -11,11 +11,10 @@ body{
 }
 
 #game-board{
-    display: inline-block;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
+    padding-left: 475px;
+    
 }
+
 .grid-cell{
     width: 40px;
     height: 40px;
